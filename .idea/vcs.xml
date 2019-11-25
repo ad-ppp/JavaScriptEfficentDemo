@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidMapVS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidOService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClassLoaderDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClickHookDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CollectionTestUnit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GradleApkDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LifeCircleTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Matrixdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProtobufExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SystraceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ToastHacker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ndk/CMakeDemo" vcs="Git" />
+  </component>
+</project>
